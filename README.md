@@ -72,6 +72,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tashumii/Tashumii/output/snake.svg" alt="Snake animation" />
 
-###
