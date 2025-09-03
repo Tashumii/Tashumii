@@ -116,28 +116,18 @@
 
 ---
 
-<h2 align="left">💡 Quote</h2>
+<h2 align="left">📊 Dev Metrics</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tashumii&theme=tokyonight" alt="Dev Metrics" />
 </p>
 
 ---
 
-<h2 align="left">🐍 Fun</h2>
+<h2 align="left">😂 Just for Fun</h2>
 
 <p align="center">
-  <img src="https://github.com/Tashumii/Tashumii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h2 align="left">📌 Pinned Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/Tashumii/YOUR-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tashumii&repo=TTS GUI&theme=tokyonight" />
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
 </p>
 
 ---
