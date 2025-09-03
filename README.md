@@ -81,6 +81,7 @@
 - 🌍 Contribute to **open-source projects**  
 - 💼 Land a role as a **backend developer**  
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <h2 align="left">📊 GitHub Stats</h2>
 
@@ -93,6 +94,6 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 
 
