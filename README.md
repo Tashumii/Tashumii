@@ -63,19 +63,7 @@
   </a>
 </div>
 
----
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-
-  ![Ric Ruzzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashumii&show_icons=true&theme=tokyonight&hide_border=true)  
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📖 Currently Learning
 
@@ -92,4 +80,19 @@
 - 🧠 Create an **AI-based application**  
 - 🌍 Contribute to **open-source projects**  
 - 💼 Land a role as a **backend developer**  
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+
+  ![Ric Ruzzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashumii&show_icons=true&theme=tokyonight&hide_border=true)  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+
 
