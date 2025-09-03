@@ -76,3 +76,20 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
+
+## 📖 Currently Learning
+
+- 🐍 Python for backend development  
+- ⚛️ React + TypeScript for frontend  
+- 🗄️ SQL & PostgreSQL for databases  
+- 🐧 Ubuntu & Docker for DevOps  
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Build a **full-stack project** with FastAPI + React  
+- 🧠 Create an **AI-based application**  
+- 🌍 Contribute to **open-source projects**  
+- 💼 Land a role as a **backend developer**  
+
