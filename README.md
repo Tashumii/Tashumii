@@ -136,7 +136,7 @@
 
 <p align="center">
   <a href="https://github.com/Tashumii/YOUR-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tashumii&repo=YOUR-REPO&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tashumii&repo=TTS GUI&theme=tokyonight" />
   </a>
 </p>
 
