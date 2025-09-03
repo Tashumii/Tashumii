@@ -80,7 +80,6 @@
 - 🧠 Create an **AI-based application**  
 - 🌍 Contribute to **open-source projects**  
 - 💼 Land a role as a **backend developer**  
----
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <h2 align="left">📊 GitHub Stats</h2>
