@@ -82,7 +82,7 @@
 - 🐍 Python for backend development  
 - ⚛️ React + TypeScript for frontend  
 - 🗄️ SQL & PostgreSQL for databases  
-- 🐧 Ubuntu & Docker for DevOps  
+- 🐧 Ubuntu & Docker  
 
 ---
 
