@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  ![Ric Ruzzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
+  ![Ric Ruzzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashumii&show_icons=true&theme=tokyonight&hide_border=true)  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
 
