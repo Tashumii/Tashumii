@@ -124,10 +124,38 @@
 
 ---
 
+<h2 align="left">📚 Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [My Journey into Backend Development](#)
+- 🐍 [Why I Love Python for Web Development](#)
+- ⚛️ [Getting Started with React + TypeScript](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h2 align="left">🎵 Now Playing</h2>
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+</p>
+
+---
+
 <h2 align="left">😂 Just for Fun</h2>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
+</p>
+
+---
+
+<h2 align="left">✨ Fun Badges</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding-Late%20Night%20Hacker-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Coffee-Fueled%20Developer-brown?style=for-the-badge&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge&logo=opensourceinitiative" />
 </p>
 
 ---
