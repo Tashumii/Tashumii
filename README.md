@@ -63,7 +63,7 @@
   </a>
 </div>
 
-
+---
 
 ## 📖 Currently Learning
 
@@ -80,19 +80,66 @@
 - 🧠 Create an **AI-based application**  
 - 🌍 Contribute to **open-source projects**  
 - 💼 Land a role as a **backend developer**  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+---
 
 <h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tashumii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
 
   ![Ric Ruzzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashumii&show_icons=true&theme=tokyonight&hide_border=true)  
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashumii&layout=compact&theme=tokyonight&hide_border=true)  
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tashumii&theme=tokyonight&hide_border=true)
 </div>
 
+---
 
+<h2 align="left">🏆 Achievements</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tashumii&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
+---
+
+<h2 align="left">📈 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tashumii&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<h2 align="left">💡 Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<h2 align="left">🐍 Fun</h2>
+
+<p align="center">
+  <img src="https://github.com/Tashumii/Tashumii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h2 align="left">📌 Pinned Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Tashumii/YOUR-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tashumii&repo=YOUR-REPO&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
